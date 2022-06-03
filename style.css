@@ -1,0 +1,23 @@
+body {
+    background: 
+    linear-gradient(rgba(192,192,192,0.4) 0 0),
+    radial-gradient(rgb(202, 178, 178) 20%, transparent 16%), 
+    radial-gradient(rgb(49, 21, 21) 15%, transparent 16%) 30px 30px,
+    rgb(161, 152, 129);
+}
+.text-position {
+    text-align:center;
+    margin:auto;
+    color:rgb(255, 255, 255);
+}
+.header-list{
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+    list-style: none; 
+    margin: 30px;
+    display: inline;
+    position: relative;
+}
+.text{
+    color: purple;
+}
